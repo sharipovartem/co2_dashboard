@@ -10,5 +10,7 @@ Then we need to deactivate our venv, otherwise we will get some displaying bugs
 4. deactivate
 5. pip3 install panel
 6. source bin/activate
-To launch the web dashboard run this command
+7. 
+# To launch the web dashboard run this command
+
 panel serve dashboard.ipynb
