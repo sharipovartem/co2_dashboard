@@ -1,6 +1,7 @@
 ## CO2 Dashboard
 # This dashboard provides a visualization of CO2 Emissions by year, country, and GDP
 Project setup:
+
 First, create a venv running this commands:
 1. python3 -m venv ./
 2. source bin/activate
